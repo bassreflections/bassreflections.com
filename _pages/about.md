@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About Bass Reflections"
 layout: single
 permalink: /about/
 ---
