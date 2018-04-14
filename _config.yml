@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Bass Reflections"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bringing the beats and the bass!"
   location         : "Oklahoma City"
   email            :
