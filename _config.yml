@@ -97,10 +97,10 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             :
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bringing the beats and the bass!"
-  location         : "Oklahoma City"
+  bio              :
+  location         :
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -271,7 +271,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: home
+      layout: single
       author_profile: true
       header:
         image: "/assets/images/header.jpg"
