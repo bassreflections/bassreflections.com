@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Blog Posts"
+  - title: "Home"
     url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "Archive"
+    url: /year-archive/
 
   - title: "Tags"
     url: /tags/
