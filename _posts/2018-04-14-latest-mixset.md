@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "Latest Mix Available for Streaming"
-date: 2018-04-14 13:21:00 -0600
 tags: 
   - Mixes
 ---
