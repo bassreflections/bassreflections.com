@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Bass Reflections"
 title_separator          : "-"
 name                     : "Bass Reflections"
-description              : "Bringing the beats!"
+description              : ""
 url                      : "http://www.bassreflections.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bassreflections/bassreflections.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -99,8 +99,8 @@ analytics:
 author:
   name             : "Bass Reflections"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Bringing the beats and the bass!"
+  location         : "Oklahoma City"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
