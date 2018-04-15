@@ -1,5 +1,5 @@
 ---
-title: "Bass Reflections Breakbeat Throwback Mix"
+title: "Bass Reflections Breakbeat Throwback Studio Mix"
 tags: 
   - Mixes
   - Breakbeat

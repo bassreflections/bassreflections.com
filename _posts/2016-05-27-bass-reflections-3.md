@@ -1,5 +1,5 @@
 ---
-title: "Bass Reflections #3 - Twitch Stream Session"
+title: "Bass Reflections #3 - Live on Twitch.tv"
 tags: 
   - Mixes
   - Drum & Bass

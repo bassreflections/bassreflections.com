@@ -1,5 +1,5 @@
 ---
-title: "Bass Reflections #2 - Twitch Stream Session"
+title: "Bass Reflections #2 - Live on Twitch.tv"
 tags: 
   - Mixes
   - Breakbeat
