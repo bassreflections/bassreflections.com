@@ -2,7 +2,7 @@
 title: "Bass Reflections #1 - In the Mix with Sky Drone"
 tags: 
   - Mixes
-  - Breakbeat
+  - Breaks
 ---
 
 This was the first episode of the mix series we started to showcase songs coming out on the Bass Reflections label.

@@ -2,7 +2,7 @@
 title: "Bass Reflections Breakbeat Throwback Studio Mix"
 tags: 
   - Mixes
-  - Breakbeat
+  - Breaks
 ---
 
 A mix with some of our favorite breakbeat tunes from the past.
