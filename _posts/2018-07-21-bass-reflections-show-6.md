@@ -9,7 +9,7 @@ Mixed Live on NSBRadio.co.uk
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fbassreflections%2Fthe-bass-reflections-show-6-live-on-nsbradiocouk%2F" frameborder="0"></iframe>
 
-Download: https://archives.nsbradio.co.uk/index.php?dir=Bass%20Reflections/
+[Download from NSBRadio](https://archives.nsbradio.co.uk/index.php?dir=Bass%20Reflections/)
 
 Tracklist:
 
